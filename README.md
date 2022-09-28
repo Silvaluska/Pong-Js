@@ -2,7 +2,7 @@
 ## O que é Pong?
 Pong é um jogo eletrônico de esporte de arcade com temática de tênis de mesa, com gráficos bidimensionais, desenvolvido pela Atari e lançado originalmente em 1972. Foi um dos primeiros jogos de arcade.
 
-<img src="https://user-images.githubusercontent.com/113150953/192793549-2b912288-8fad-482c-80a5-dc4bc278b4a3.png" alt="Pong" width="200"/> <img src="https://user-images.githubusercontent.com/113150953/192793622-50ed753d-13df-4319-8d44-c0a889c4cb92.png" alt="Pong Screen" width="400"/>
+<img src="https://user-images.githubusercontent.com/113150953/192793549-2b912288-8fad-482c-80a5-dc4bc278b4a3.png" alt="Pong" width="200"/> <img src="https://user-images.githubusercontent.com/113150953/192793622-50ed753d-13df-4319-8d44-c0a889c4cb92.png" alt="Pong Screen" width="420"/>
 
 ## Minha versão
 Esta versão de pong surgiu dos meus estudos de programação em JavaScript onde pude recriar um dos primeiros jogos arcades da história, me proporcionando além de muita diversão um alto nivel de aprendizado.
